@@ -1,1 +1,1 @@
-# SQL-Python-Ecommerce-Target--Project
+# Ecommerce Target Project
