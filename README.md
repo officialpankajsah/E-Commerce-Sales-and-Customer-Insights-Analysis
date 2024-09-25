@@ -13,3 +13,5 @@ Successful Outcomes:
 3. Sales Growth Strategies: The moving averages and year-over-year growth rates provided insights into sales trends, helping the company optimize promotions and inventory planning based on historical and projected sales data.
 
 4. Enhanced Customer Retention: By calculating the retention rate of customers making repeat purchases, the company identified opportunities for improving customer loyalty through targeted campaigns and follow-ups.
+
+5. Sales and Order Trend Analysis: Monthly and cumulative sales trends offered insights into seasonal peaks and helped forecast future demand, improving inventory management and sales strategies.
