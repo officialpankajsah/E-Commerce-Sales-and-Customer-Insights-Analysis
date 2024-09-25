@@ -1,1 +1,1 @@
-# Ecommerce Target Project
+# e-Commerce Target Project
